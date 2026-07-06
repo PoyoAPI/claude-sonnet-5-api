@@ -9,7 +9,7 @@ Focused server-side examples for building with `claude-sonnet-5` on PoYo.
 
 Claude Sonnet 5 is useful for agentic coding, planning, browser or computer-use orchestration, long-context analysis, and production assistant workflows.
 
-[Model Page](https://poyo.ai/models/claude-sonnet-5) | [Docs](https://docs.poyo.ai/api-manual/chat-series/claude-messages) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/claude-sonnet-5) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/chat-series/claude-messages) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
